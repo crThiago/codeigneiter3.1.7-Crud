@@ -1,3 +1,4 @@
-        <em>&copy; 2015</em>
+        </div> <!--  End class col s10   -->
+    </div> <!--  End class row   -->
     </body>
 </html>
